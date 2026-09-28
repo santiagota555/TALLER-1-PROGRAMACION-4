@@ -1,4 +1,4 @@
-##  MarketSoft API
+##  MarketSoft API   (por alguna razon no me deja adjuntar todo el archivo sin estar en .zip)
 API REST desarrollada para la gestión básica de un supermercado, implementando un backend robusto con arquitectura MVC, persistencia de datos relacional y documentación interactiva.
 
 Autor: Santiago Toro Amariles
